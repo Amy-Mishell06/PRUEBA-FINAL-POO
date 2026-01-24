@@ -24,6 +24,9 @@
 
 - El servidor se levanta con: http://localhost:8080/api/estudiantes
 
+<img width="610" height="587" alt="image" src="https://github.com/user-attachments/assets/bc17d4b8-b05b-47a7-ba4d-f7d054db4521" />
+
+
 *Desde POSTMAN*
 
 - GET /api/estudiantes
