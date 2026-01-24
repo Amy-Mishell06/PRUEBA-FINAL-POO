@@ -1,6 +1,6 @@
 *Tecnologías Utilizadas*
 
-- Java 25
+- Java 25 JDK
 
 - Spring Boot
 
