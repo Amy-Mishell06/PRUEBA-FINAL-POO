@@ -11,6 +11,5 @@ import org.springframework.stereotype.Repository;
 // JpaRepository ya trae CRUD listo
 @Repository
 public interface EstudianteRepository extends JpaRepository<Estudiante, Long> {
-    // No es necesario escribir métodos
-    // Spring genera automáticamente findAll, save, delete, etc.
+    // No es necesario escribir metodos
 }

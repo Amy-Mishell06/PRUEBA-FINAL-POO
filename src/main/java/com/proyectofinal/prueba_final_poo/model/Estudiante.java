@@ -5,7 +5,7 @@ import jakarta.persistence.*;
 // Importaciones para validaciones
 import jakarta.validation.constraints.*;
 
-//indica que esta clase es una entidad de base de datos
+//entidad que representa la tabla estudiante
 @Entity
 public class Estudiante {
 
